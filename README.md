@@ -1,2 +1,2 @@
-# ele8812-signal-processing
+# ELE8812-signal-processing
 Repository for signal processing course
